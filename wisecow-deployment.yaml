@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: wisecow
-          image: wisecow:latest   # replace with DockerHub image when pushing
+          image: nileshdgaikwad8805/wisecow:latest   # replace with DockerHub image when pushing
           ports:
             - containerPort: 4499
